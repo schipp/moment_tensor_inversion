@@ -7,7 +7,7 @@ Invert for the moment tensor of an (regional) earthquake by grid-searching the d
 ## Requirements
 
 - Python 3
-- Relevant base Green's Functions for applicable event-station-distances (ZSS, ZDS, ZDD, RSS, RDS, RDD, TSS, TDS). E.g., **C**omputer **P**rograms in **S**eismology by Herrmann ([2013](http://www.eas.slu.edu/eqc/eqccps.html)).
+- Relevant base Green's Functions for applicable event-station-distances (ZSS, ZDS, ZDD, RSS, RDS, RDD, TSS, TDS), e.g., computed by CPS (Herrmann, [2013](http://www.eas.slu.edu/eqc/eqccps.html)).
 
 ## TODO
 
